@@ -4,7 +4,7 @@
 
 ## ⬇️ Download
 
-👉 **[Download latest version](https://github.com/DEINNAME/DEINREPO/releases/latest)**
+👉 **[Download latest version](https://github.com/cartuntik-beep/shortupload/releases/tag/v1.0.0/releases/latest)**
 
 
 
