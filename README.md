@@ -1,5 +1,16 @@
 # ShortUploader
 
+🚀 Simple tool for uploading short-form videos.
+
+## ⬇️ Download
+
+👉 **[Download latest version](https://github.com/DEINNAME/DEINREPO/releases/latest)**
+
+
+
+
+# ShortUploader
+
 ShortUploader ist ein **Desktop-Programm für Windows**, mit dem Short-Videos effizient auf Youtube und TikTok vorbereitet und automatisiert hochgeladen werden können.  
 Der Fokus liegt auf **Batch-Workflows**, **lokaler KI-Unterstützung** und **voller Nutzerkontrolle** vor dem Upload.
 
