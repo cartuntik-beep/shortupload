@@ -1,6 +1,6 @@
 # ShortUploader
 
-🚀 Simple tool for uploading short-form videos.
+🚀 Simple tool for uploading short-form videos on Tiktok and Youtube.
 
 ## ⬇️ Download
 
